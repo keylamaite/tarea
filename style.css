@@ -1,0 +1,72 @@
+body {
+    background-color: aqua;
+}
+
+.Titulo {
+    width: auto;
+    height: 100px;
+    background-color: red;
+}
+
+.Contenedor {
+    display: flex;
+    width: 100%;
+}
+
+.contenedor {
+    display: flex;
+}
+
+.elemento {
+    width: 25%;
+}
+
+.CajaMadre {
+    display: flex;
+    background-color: yellow;
+}
+
+.hija1 {
+    width: 25%;
+    height: 100px;
+    background-color: green;
+}
+.hija2 {
+    width: 25%;
+    height: 100px;
+    background-color: blue;
+}
+.hija3 {
+    width: 25%;
+    height: 100px;
+    background-color: orange;
+}
+.hija4 {
+    width: 25%;
+    height: 100px;
+    background-color: brown;
+}
+
+.Caja1 {
+    width: 50%;
+    height: 300px;
+    background-color: green;
+    text-align: left;
+}
+.Caja2 {
+    width: 50%;
+    height: 300px;
+    background-color: skyblue;
+    text-align: right;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+}
